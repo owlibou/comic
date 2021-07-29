@@ -1,0 +1,15 @@
+body {
+  background: rgb(7,237,237);
+  background: linear-gradient(0deg, rgba(7,237,237,1) 0%, rgba(253,204,45,1) 100%); 
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+.comic {
+  width: 600px;
+  display: block;
+  margin: 10 auto;
+}
